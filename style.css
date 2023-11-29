@@ -1,0 +1,97 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    display: inline;
+}
+image{
+    padding-top: 45px;  
+    padding-left: 75px;
+    width: 125px;
+    height: 40px;
+    display: inline block;
+  
+   
+}
+p{
+    display: inline;
+    text-align-last: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: medium;
+
+}
+.ms
+{
+  padding: left 80px;
+  padding-top: 25px;
+}
+image{
+    padding-left: 0%;
+    width: 20px;
+    height: 10px;
+    position: relative;
+    
+}
+.details{
+    color: black;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+    padding-left: 80px;
+    display: inline block;
+    
+}
+p1{
+
+    text-align: right;
+    float: right;
+    padding-right: 20px;;
+}
+
+Button 
+{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    height: 30px;
+    width: 100px;
+}
+image{
+    width: 200px;
+    height: 100px;
+
+}        
+option{
+    display:grid;
+}       
+div{
+display: inline;
+
+}  
+h4
+{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    font-size: medium;
+    }   
+. imageplaced{
+    position: relative;
+    
+   
+    }       
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+}
+image{
+    max-width: 100%;
+    height: auto;
+    
+
+}
